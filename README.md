@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luliuzee
+- 👀 I’m interested in automation
+- 🌱 I’m currently learning Chinese, Computer vision, & Cloud
+- 💞️ I’m looking to collaborate on large scale training projects, 
+- 📫 How to reach me luliuzee@mit.edu
